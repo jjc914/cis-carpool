@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/searchview_rounded.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/layout/activity_carpool_details.xml" value="0.40450342136076434" />
+        <entry key="app/src/main/res/layout/activity_create_carpool.xml" value="0.31360247662128377" />
+        <entry key="app/src/main/res/layout/activity_joined_listings.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_maps_destination_search.xml" value="0.2841379544813315" />
+        <entry key="app/src/main/res/layout/activity_maps_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_maps_map.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/activity_maps_origin_search.xml" value="0.2835648148148148" />
+        <entry key="app/src/main/res/layout/activity_maps_recyclerview_row.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_maps_root.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_maps_search.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/activity_my_listings.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.17119565217391305" />
+        <entry key="app/src/main/res/layout/activity_user_dashboard.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/listing_recyclerview_row.xml" value="0.20380434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

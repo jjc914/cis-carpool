@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_map_key" translatable="false">
+        AIzaSyCYWIAGeuv-37dWjyHkqqz4KerQKQDZzdE
+    </string>
+    <string name="open_route_service_key" translatable="false">
+        5b3ce3597851110001cf62485890f3ad7bfe471cbcd28c6fe7ac2ec0
+    </string>
+</resources>
